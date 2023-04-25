@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Gastón Garay
 #### I am student in programming
-I am a collaborator in different university projects, I want to continue learning and be a good programmer.
+I collaborate in different university projects, I want to continue learning and be a good programmer.
 
 Skills: PY / JAVA / GIT / GITHUB / JS / HTML / 
 
